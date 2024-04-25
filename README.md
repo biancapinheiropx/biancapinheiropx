@@ -21,11 +21,8 @@ Graduando em Analise e Desenvolvimento de Sistemas pelo Mackenzie - SP, atuando 
   <img align="center" alt="Bianca-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   
 </div>
-          
-          
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
-          
-
+        
+      
 <p align="left">
   <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
 </p>
