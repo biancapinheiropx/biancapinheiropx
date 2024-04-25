@@ -16,6 +16,10 @@ Graduando em Analise e Desenvolvimento de Sistemas pelo Mackenzie - SP, atuando 
   
 </div>
 
+##
+
+![Bianca Pinheiro Passos GitHub stats](https://github-readme-stats.vercel.app/api?username=biancapinheiropx&show_icons=true&theme=dracula)
+
 <!-- Contato -->
 ## Contato:
 
