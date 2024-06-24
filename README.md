@@ -1,7 +1,7 @@
 # Olá, eu sou a Bianca.
 
 ##  Sobre mim
-Graduando em Analise e Desenvolvimento de Sistemas pelo Mackenzie - SP, atuando como analista de sistemas, tendo ampla expriência na área de tecnologia e desenvolvedora full stack.
+Graduando em Analise e Desenvolvimento de Sistemas pelo Mackenzie - SP, atuando como analista de sistemas, tendo ampla expriência na área de tecnologia e desenvolvedora web.
 
 <!-- Portfolio -->
 ## Portfolio:
